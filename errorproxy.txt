@@ -1,1 +1,1 @@
-Error checking 38.60.171.111:587: 500 Server Error: Internal Server Error for url: https://p01--boiling-frame--kw6dd7bjv2nr.code.run/check?ip=38.60.171.111&host=speed.cloudflare.com&port=587&tls=true
+Error checking 35.219.50.99:443: 500 Server Error: Internal Server Error for url: https://p01--boiling-frame--kw6dd7bjv2nr.code.run/check?ip=35.219.50.99&host=speed.cloudflare.com&port=443&tls=true
