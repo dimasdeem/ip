@@ -1,3 +1,1 @@
-Error checking 77.238.231.99:443: 500 Server Error: Internal Server Error for url: https://p01--boiling-frame--kw6dd7bjv2nr.code.run/check?ip=77.238.231.99&host=speed.cloudflare.com&port=443&tls=true
-Error checking 185.139.228.126:443: 500 Server Error: Internal Server Error for url: https://p01--boiling-frame--kw6dd7bjv2nr.code.run/check?ip=185.139.228.126&host=speed.cloudflare.com&port=443&tls=true
-Error checking 89.22.239.172:8443: 500 Server Error: Internal Server Error for url: https://p01--boiling-frame--kw6dd7bjv2nr.code.run/check?ip=89.22.239.172&host=speed.cloudflare.com&port=8443&tls=true
+Error checking 66.151.42.127:8443: 500 Server Error: Internal Server Error for url: https://p01--boiling-frame--kw6dd7bjv2nr.code.run/check?ip=66.151.42.127&host=speed.cloudflare.com&port=8443&tls=true
