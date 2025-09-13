@@ -1,3 +1,8 @@
-Error checking 185.94.165.93:443: 500 Server Error: Internal Server Error for url: https://p01--boiling-frame--kw6dd7bjv2nr.code.run/check?ip=185.94.165.93&host=speed.cloudflare.com&port=443&tls=true
-Error checking 176.124.206.60:2053: 500 Server Error: Internal Server Error for url: https://p01--boiling-frame--kw6dd7bjv2nr.code.run/check?ip=176.124.206.60&host=speed.cloudflare.com&port=2053&tls=true
-Error checking 146.56.179.20:8000: 500 Server Error: Internal Server Error for url: https://p01--boiling-frame--kw6dd7bjv2nr.code.run/check?ip=146.56.179.20&host=speed.cloudflare.com&port=8000&tls=true
+Error checking 89.110.74.90:443: 500 Server Error: Internal Server Error for url: https://p01--boiling-frame--kw6dd7bjv2nr.code.run/check?ip=89.110.74.90&host=speed.cloudflare.com&port=443&tls=true
+Error checking 91.245.224.37:8443: 500 Server Error: Internal Server Error for url: https://p01--boiling-frame--kw6dd7bjv2nr.code.run/check?ip=91.245.224.37&host=speed.cloudflare.com&port=8443&tls=true
+Error checking 147.45.73.226:2053: 500 Server Error: Internal Server Error for url: https://p01--boiling-frame--kw6dd7bjv2nr.code.run/check?ip=147.45.73.226&host=speed.cloudflare.com&port=2053&tls=true
+Error checking 94.142.138.174:8443: 500 Server Error: Internal Server Error for url: https://p01--boiling-frame--kw6dd7bjv2nr.code.run/check?ip=94.142.138.174&host=speed.cloudflare.com&port=8443&tls=true
+Error checking 46.29.235.67:2053: 500 Server Error: Internal Server Error for url: https://p01--boiling-frame--kw6dd7bjv2nr.code.run/check?ip=46.29.235.67&host=speed.cloudflare.com&port=2053&tls=true
+Error checking 94.142.138.174:2053: 500 Server Error: Internal Server Error for url: https://p01--boiling-frame--kw6dd7bjv2nr.code.run/check?ip=94.142.138.174&host=speed.cloudflare.com&port=2053&tls=true
+Error checking 158.101.146.3:54516: 500 Server Error: Internal Server Error for url: https://p01--boiling-frame--kw6dd7bjv2nr.code.run/check?ip=158.101.146.3&host=speed.cloudflare.com&port=54516&tls=true
+Error checking 91.219.227.106:2053: 500 Server Error: Internal Server Error for url: https://p01--boiling-frame--kw6dd7bjv2nr.code.run/check?ip=91.219.227.106&host=speed.cloudflare.com&port=2053&tls=true
