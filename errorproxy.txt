@@ -1,1 +1,4 @@
-Error checking 194.87.45.19:8443: 500 Server Error: Internal Server Error for url: https://p01--boiling-frame--kw6dd7bjv2nr.code.run/check?ip=194.87.45.19&host=speed.cloudflare.com&port=8443&tls=true
+Error checking 185.70.185.138:8443: 500 Server Error: Internal Server Error for url: https://p01--boiling-frame--kw6dd7bjv2nr.code.run/check?ip=185.70.185.138&host=speed.cloudflare.com&port=8443&tls=true
+Error checking 217.30.10.221:8443: 500 Server Error: Internal Server Error for url: https://p01--boiling-frame--kw6dd7bjv2nr.code.run/check?ip=217.30.10.221&host=speed.cloudflare.com&port=8443&tls=true
+Error checking 51.15.210.1:443: 500 Server Error: Internal Server Error for url: https://p01--boiling-frame--kw6dd7bjv2nr.code.run/check?ip=51.15.210.1&host=speed.cloudflare.com&port=443&tls=true
+Error checking 188.132.192.194:8443: 500 Server Error: Internal Server Error for url: https://p01--boiling-frame--kw6dd7bjv2nr.code.run/check?ip=188.132.192.194&host=speed.cloudflare.com&port=8443&tls=true
