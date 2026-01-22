@@ -1,1 +1,9 @@
-Error checking 178.208.77.253:443: 500 Server Error: Internal Server Error for url: https://p01--boiling-frame--kw6dd7bjv2nr.code.run/check?ip=178.208.77.253&host=speed.cloudflare.com&port=443&tls=true
+Error checking 45.150.164.179:10369: 500 Server Error: Internal Server Error for url: https://p01--boiling-frame--kw6dd7bjv2nr.code.run/check?ip=45.150.164.179&host=speed.cloudflare.com&port=10369&tls=true
+Error checking 129.213.22.27:11650: 500 Server Error: Internal Server Error for url: https://p01--boiling-frame--kw6dd7bjv2nr.code.run/check?ip=129.213.22.27&host=speed.cloudflare.com&port=11650&tls=true
+Error checking 132.145.217.215:11002: 500 Server Error: Internal Server Error for url: https://p01--boiling-frame--kw6dd7bjv2nr.code.run/check?ip=132.145.217.215&host=speed.cloudflare.com&port=11002&tls=true
+Error checking 31.172.70.222:443: 500 Server Error: Internal Server Error for url: https://p01--boiling-frame--kw6dd7bjv2nr.code.run/check?ip=31.172.70.222&host=speed.cloudflare.com&port=443&tls=true
+Error checking 148.135.59.174:54824: 500 Server Error: Internal Server Error for url: https://p01--boiling-frame--kw6dd7bjv2nr.code.run/check?ip=148.135.59.174&host=speed.cloudflare.com&port=54824&tls=true
+Error checking 172.93.32.131:23077: 500 Server Error: Internal Server Error for url: https://p01--boiling-frame--kw6dd7bjv2nr.code.run/check?ip=172.93.32.131&host=speed.cloudflare.com&port=23077&tls=true
+Error checking 45.151.133.125:41389: 500 Server Error: Internal Server Error for url: https://p01--boiling-frame--kw6dd7bjv2nr.code.run/check?ip=45.151.133.125&host=speed.cloudflare.com&port=41389&tls=true
+Error checking 212.113.116.93:443: 500 Server Error: Internal Server Error for url: https://p01--boiling-frame--kw6dd7bjv2nr.code.run/check?ip=212.113.116.93&host=speed.cloudflare.com&port=443&tls=true
+Error checking 217.144.186.237:2053: 500 Server Error: Internal Server Error for url: https://p01--boiling-frame--kw6dd7bjv2nr.code.run/check?ip=217.144.186.237&host=speed.cloudflare.com&port=2053&tls=true
