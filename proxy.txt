@@ -1,101 +1,98 @@
-172.245.129.72,27486,US,ColoCrossing
-141.148.153.223,36818,US,Oracle Cloud
 172.98.207.58,443,CA,Advanced Knowledge Networks
 43.130.105.166,65001,US,Tencent cloud computing
-43.153.61.80,40874,US,Tencent cloud computing
 34.83.245.149,443,US,Google Cloud
-141.148.164.46,57239,US,Oracle Cloud
-77.238.226.178,443,NL,Servers Tech Fzco
 43.130.105.166,65002,US,Tencent cloud computing
-185.231.204.173,81,ES,Stark Industries Solutions
-109.107.165.225,443,NL,Servers Tech Fzco
-147.45.50.181,8080,NL,Global Connectivity Solutions Llp
-77.238.241.143,443,NL,Servers Tech Fzco
-89.110.108.46,443,NL,Servers Tech Fzco
-109.61.95.21,8080,GB,Datacamp
-194.58.44.69,443,NL,Baxet Group Inc
-195.200.17.63,443,NL,Servers Tech Fzco
-185.233.203.134,443,NL,First Server
-185.130.225.218,14006,NL,Hostkey
-159.65.94.176,8080,GB,Digital Ocean
-66.151.42.104,443,NL,Internap Corporation
-77.238.237.179,443,NL,Servers Tech Fzco
-77.238.242.88,443,NL,Servers Tech Fzco
-194.164.34.104,433,NL,Servers Tech Fzco
-91.149.202.142,443,GB,Baxet Group Inc
-88.210.11.164,22284,NL,Servers Tech Fzco
-80.76.34.190,443,NL,First Server
-89.110.120.197,443,NL,Servers Tech Fzco
-103.45.245.208,8443,ES,Kamatera Inc
-38.180.85.203,443,CH,Private Layer
-185.223.93.86,443,NL,King Servers
-77.246.108.130,443,NL,Servers Tech Fzco
-185.114.72.119,24780,ES,First Server
-88.210.11.164,22285,NL,Servers Tech Fzco
-93.183.88.193,443,NL,Servers Tech Fzco
-93.183.124.129,443,NL,Servers Tech Fzco
+172.245.129.72,27486,US,ColoCrossing
+141.148.153.223,36818,US,Oracle Cloud
+141.148.164.46,57239,US,Oracle Cloud
 103.90.75.41,8443,NL,Clodo Cloud Service Co
-188.215.229.74,8443,NL,Legaco Networks BV
-23.108.217.103,443,NL,Servers-com
-91.149.238.88,443,GB,Baxet Group Inc
-109.107.167.104,443,NL,Servers Tech Fzco
-194.164.35.86,443,NL,Servers Tech Fzco
-2.59.38.46,443,NL,DataWeb Global Group
+185.114.72.119,24780,ES,First Server
+91.149.202.142,443,GB,Baxet Group Inc
+147.45.50.181,8080,NL,Global Connectivity Solutions Llp
+193.17.183.157,8443,ES,Near Ip Sl
 185.220.204.87,443,NL,Kamatera Inc
+80.76.34.190,443,NL,First Server
+88.210.11.164,22285,NL,Servers Tech Fzco
+77.238.226.178,443,NL,Servers Tech Fzco
+89.110.108.46,443,NL,Servers Tech Fzco
+77.238.247.93,443,NL,Servers Tech Fzco
+185.233.203.134,443,NL,First Server
+109.107.167.104,443,NL,Servers Tech Fzco
+2.59.38.46,443,NL,DataWeb Global Group
 109.120.134.133,443,SE,Aeza International
+38.180.85.203,443,CH,Private Layer
+46.226.161.37,443,SE,Aeza International
+185.223.93.86,443,NL,King Servers
+185.231.204.173,81,ES,Stark Industries Solutions
+66.151.42.104,443,NL,Internap Corporation
+159.65.94.176,8080,GB,Digital Ocean
+77.238.241.143,443,NL,Servers Tech Fzco
+77.246.108.130,443,NL,Servers Tech Fzco
+109.61.95.21,8080,GB,Datacamp
+109.107.165.225,443,NL,Servers Tech Fzco
 78.40.117.65,2053,SE,Alexhost
 185.103.252.54,2053,DE,First Server
-77.238.247.93,443,NL,Servers Tech Fzco
-193.17.183.157,8443,ES,Near Ip Sl
-46.226.161.37,443,SE,Aeza International
+103.45.245.208,8443,ES,Kamatera Inc
+77.238.237.179,443,NL,Servers Tech Fzco
+89.110.120.197,443,NL,Servers Tech Fzco
+88.210.11.164,22284,NL,Servers Tech Fzco
+23.108.217.103,443,NL,Servers-com
+93.183.124.129,443,NL,Servers Tech Fzco
+185.130.225.218,14006,NL,Hostkey
+194.58.44.69,443,NL,Baxet Group Inc
+194.164.35.86,443,NL,Servers Tech Fzco
+91.149.238.88,443,GB,Baxet Group Inc
+194.164.34.104,433,NL,Servers Tech Fzco
+93.183.88.193,443,NL,Servers Tech Fzco
+188.215.229.74,8443,NL,Legaco Networks BV
+43.153.61.80,40874,US,Tencent cloud computing
+195.200.17.63,443,NL,Servers Tech Fzco
 70.34.244.250,27000,PL,Vultr
 194.135.22.181,443,CH,Big Data Host
-129.151.198.3,2053,SE,Oracle Cloud
 198.46.218.63,27149,US,ColoCrossing
+129.151.198.3,2053,SE,Oracle Cloud
 78.40.117.186,2053,SE,Alexhost
+103.45.245.208,2053,ES,Kamatera Inc
 45.147.228.249,443,DE,aurologic
 2.59.183.233,444,NL,SERVA ONE LTD
 212.227.90.142,443,ES,1&1 Internet AG
-103.45.245.208,2053,ES,Kamatera Inc
 77.221.143.56,2053,SE,Aeza International
 94.247.42.207,443,CH,Datasource
-94.177.199.119,2053,IT,Aruba Networks
-185.195.69.200,2053,CH,Datasource
-37.252.7.161,2053,PL,Artnet Sp z oo
-193.84.2.58,8443,FI,Hostkey
-147.45.245.15,443,RU,TimeWeb
-77.223.96.232,443,RU,JSC Selectel
-31.133.0.133,2053,PL,HosTeam
-185.94.167.181,2053,FI,I-servers
-31.133.0.167,2053,PL,HosTeam
-109.120.135.91,8443,SE,Aeza International
-185.211.170.101,2053,RU,TimeWeb
 80.76.32.12,443,DE,First Server
+185.195.69.200,2053,CH,Datasource
+147.45.245.15,443,RU,TimeWeb
+31.133.0.133,2053,PL,HosTeam
+193.84.2.58,8443,FI,Hostkey
+37.252.7.161,2053,PL,Artnet Sp z oo
+77.223.96.232,443,RU,JSC Selectel
+82.97.254.184,2053,RU,TimeWeb
+109.120.135.91,8443,SE,Aeza International
 168.138.198.7,27560,JP,Oracle Cloud
 31.133.0.159,2053,PL,HosTeam
-82.97.254.184,2053,RU,TimeWeb
-138.3.222.124,46209,JP,Oracle Cloud
-193.3.23.128,37424,RU,FOP Hornostay Mykhaylo Ivanovych
-144.24.84.212,49888,KR,Oracle Cloud
-140.83.57.20,13118,JP,Oracle Cloud
-141.147.152.229,23333,JP,Oracle Cloud
-193.122.126.64,53777,KR,Oracle Cloud
-80.211.249.240,2053,PL,Aruba Networks
+185.211.170.101,2053,RU,TimeWeb
+140.238.37.103,14782,JP,Oracle Cloud
+185.94.167.181,2053,FI,I-servers
+31.133.0.167,2053,PL,HosTeam
 131.186.24.124,587,KR,Oracle Cloud
-129.154.54.67,19567,KR,Oracle Cloud
-85.198.109.79,2053,RU,Hosting technology
 149.28.21.106,443,JP,Vultr
 152.70.82.101,18650,JP,Oracle Cloud
-140.83.59.158,15805,JP,Oracle Cloud
+138.3.222.124,46209,JP,Oracle Cloud
+79.137.248.111,443,SE,Aeza International
+193.3.23.128,37424,RU,FOP Hornostay Mykhaylo Ivanovych
+85.198.109.79,2053,RU,Hosting technology
 95.140.157.183,2053,PL,TimeWeb
-217.144.188.147,8443,SE,Aeza International
-140.238.37.103,14782,JP,Oracle Cloud
-89.207.12.80,8443,TR,Star of Bosphorus Bilgi Teknolojiler San ve Tic A
+80.211.249.240,2053,PL,Aruba Networks
+140.83.59.158,15805,JP,Oracle Cloud
+129.154.54.67,19567,KR,Oracle Cloud
 176.57.211.166,8443,RU,TimeWeb
-45.86.86.53,443,MD,Alexhost
+140.83.57.20,13118,JP,Oracle Cloud
+217.144.188.147,8443,SE,Aeza International
+89.207.12.80,8443,TR,Star of Bosphorus Bilgi Teknolojiler San ve Tic A
+144.24.84.212,49888,KR,Oracle Cloud
+193.122.126.64,53777,KR,Oracle Cloud
+104.248.145.216,443,SG,Digital Ocean
+141.147.152.229,23333,JP,Oracle Cloud
 168.138.46.67,443,JP,Oracle Cloud
 138.2.59.96,10129,JP,Oracle Cloud
-79.137.248.111,443,SE,Aeza International
-84.235.245.18,34501,AE,Oracle Cloud
-104.248.145.216,443,SG,Digital Ocean
 194.127.193.240,50791,SG,Leaseweb Asia
+84.235.245.18,34501,AE,Oracle Cloud
