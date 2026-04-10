@@ -1,11 +1,7 @@
-Error checking 131.186.24.124:587: 404 Client Error: Not Found for url: https://p01--boiling-frame--kw6dd7bjv2nr.code.run/check?ip=131.186.24.124&host=speed.cloudflare.com&port=587&tls=true
-Error checking 104.248.145.216:443: 404 Client Error: Not Found for url: https://p01--boiling-frame--kw6dd7bjv2nr.code.run/check?ip=104.248.145.216&host=speed.cloudflare.com&port=443&tls=true
-Error checking 78.40.117.65:2053: 404 Client Error: Not Found for url: https://p01--boiling-frame--kw6dd7bjv2nr.code.run/check?ip=78.40.117.65&host=speed.cloudflare.com&port=2053&tls=true
-Error checking 93.183.88.193:443: 404 Client Error: Not Found for url: https://p01--boiling-frame--kw6dd7bjv2nr.code.run/check?ip=93.183.88.193&host=speed.cloudflare.com&port=443&tls=true
-Error checking 129.151.198.3:2053: 404 Client Error: Not Found for url: https://p01--boiling-frame--kw6dd7bjv2nr.code.run/check?ip=129.151.198.3&host=speed.cloudflare.com&port=2053&tls=true
-Error checking 194.164.35.86:443: 404 Client Error: Not Found for url: https://p01--boiling-frame--kw6dd7bjv2nr.code.run/check?ip=194.164.35.86&host=speed.cloudflare.com&port=443&tls=true
-Error checking 77.238.247.93:443: 404 Client Error: Not Found for url: https://p01--boiling-frame--kw6dd7bjv2nr.code.run/check?ip=77.238.247.93&host=speed.cloudflare.com&port=443&tls=true
-Error checking 70.34.244.250:27000: 404 Client Error: Not Found for url: https://p01--boiling-frame--kw6dd7bjv2nr.code.run/check?ip=70.34.244.250&host=speed.cloudflare.com&port=27000&tls=true
-Error checking 185.211.170.101:2053: 404 Client Error: Not Found for url: https://p01--boiling-frame--kw6dd7bjv2nr.code.run/check?ip=185.211.170.101&host=speed.cloudflare.com&port=2053&tls=true
-Error checking 198.46.218.63:27149: 404 Client Error: Not Found for url: https://p01--boiling-frame--kw6dd7bjv2nr.code.run/check?ip=198.46.218.63&host=speed.cloudflare.com&port=27149&tls=true
-Error checking 185.114.72.119:24780: 500 Server Error: Internal Server Error for url: https://p01--boiling-frame--kw6dd7bjv2nr.code.run/check?ip=185.114.72.119&host=speed.cloudflare.com&port=24780&tls=true
+Error checking 2.59.183.233:444: 404 Client Error: Not Found for url: https://p01--boiling-frame--kw6dd7bjv2nr.code.run/check?ip=2.59.183.233&host=speed.cloudflare.com&port=444&tls=true
+Error checking 212.227.90.142:443: 404 Client Error: Not Found for url: https://p01--boiling-frame--kw6dd7bjv2nr.code.run/check?ip=212.227.90.142&host=speed.cloudflare.com&port=443&tls=true
+Error checking 80.76.34.190:443: 404 Client Error: Not Found for url: https://p01--boiling-frame--kw6dd7bjv2nr.code.run/check?ip=80.76.34.190&host=speed.cloudflare.com&port=443&tls=true
+Error checking 103.90.75.41:8443: 404 Client Error: Not Found for url: https://p01--boiling-frame--kw6dd7bjv2nr.code.run/check?ip=103.90.75.41&host=speed.cloudflare.com&port=8443&tls=true
+Error checking 43.130.105.166:65002: 404 Client Error: Not Found for url: https://p01--boiling-frame--kw6dd7bjv2nr.code.run/check?ip=43.130.105.166&host=speed.cloudflare.com&port=65002&tls=true
+Error checking 172.98.207.58:443: 404 Client Error: Not Found for url: https://p01--boiling-frame--kw6dd7bjv2nr.code.run/check?ip=172.98.207.58&host=speed.cloudflare.com&port=443&tls=true
+Error checking 185.94.167.181:2053: 404 Client Error: Not Found for url: https://p01--boiling-frame--kw6dd7bjv2nr.code.run/check?ip=185.94.167.181&host=speed.cloudflare.com&port=2053&tls=true
