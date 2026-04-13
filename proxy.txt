@@ -1,32 +1,21 @@
 172.245.129.72,27486,US,ColoCrossing
-159.65.94.176,8080,GB,Digital Ocean
 141.148.164.46,57239,US,Oracle Cloud
-141.148.153.223,36818,US,Oracle Cloud
 91.149.238.88,443,GB,Baxet Group Inc
+159.65.94.176,8080,GB,Digital Ocean
 23.108.217.103,443,NL,Servers-com
-109.107.167.104,443,NL,Servers Tech Fzco
-77.238.237.179,443,NL,Servers Tech Fzco
-185.223.93.86,443,NL,King Servers
-45.147.228.249,443,DE,aurologic
 77.246.108.130,443,NL,Servers Tech Fzco
-103.45.245.208,2053,ES,Kamatera Inc
+77.238.237.179,443,NL,Servers Tech Fzco
 103.45.245.208,8443,ES,Kamatera Inc
-147.45.245.15,443,RU,TimeWeb
+103.45.245.208,2053,ES,Kamatera Inc
 193.84.2.58,8443,FI,Hostkey
+149.28.21.106,443,JP,Vultr
+147.45.245.15,443,RU,TimeWeb
 31.133.0.133,2053,PL,HosTeam
 31.133.0.167,2053,PL,HosTeam
-168.138.198.7,27560,JP,Oracle Cloud
-149.28.21.106,443,JP,Vultr
-217.144.188.147,8443,SE,Aeza International
-109.120.135.91,8443,SE,Aeza International
-140.238.37.103,14782,JP,Oracle Cloud
 77.221.143.56,2053,SE,Aeza International
-82.97.254.184,2053,RU,TimeWeb
 80.211.249.240,2053,PL,Aruba Networks
-141.147.152.229,23333,JP,Oracle Cloud
+82.97.254.184,2053,RU,TimeWeb
 129.154.54.67,19567,KR,Oracle Cloud
+141.147.152.229,23333,JP,Oracle Cloud
 138.2.59.96,10129,JP,Oracle Cloud
-193.122.126.64,53777,KR,Oracle Cloud
-84.235.245.18,34501,AE,Oracle Cloud
 140.83.57.20,13118,JP,Oracle Cloud
-147.45.50.181,8080,NL,Global Connectivity Solutions Llp
