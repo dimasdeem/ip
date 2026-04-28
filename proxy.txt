@@ -1,6 +1,4 @@
 91.149.238.88,443,GB,Baxet Group Inc
-159.65.94.176,8080,GB,Digital Ocean
-103.45.245.208,8443,ES,Kamatera Inc
 77.246.108.130,443,NL,Servers Tech Fzco
 193.84.2.58,8443,FI,Hostkey
 80.211.249.240,2053,PL,Aruba Networks
