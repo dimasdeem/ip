@@ -1,2 +1,1 @@
-Error checking 91.149.238.88:443: 503 Server Error: Service Unavailable for url: https://p01--boiling-frame--kw6dd7bjv2nr.code.run/check?ip=91.149.238.88&host=speed.cloudflare.com&port=443&tls=true
-Error checking 77.246.108.130:443: 503 Server Error: Service Unavailable for url: https://p01--boiling-frame--kw6dd7bjv2nr.code.run/check?ip=77.246.108.130&host=speed.cloudflare.com&port=443&tls=true
+Error checking 80.211.249.240:2053: 404 Client Error: Not Found for url: https://p01--boiling-frame--kw6dd7bjv2nr.code.run/check?ip=80.211.249.240&host=speed.cloudflare.com&port=2053&tls=true
